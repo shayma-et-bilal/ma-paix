@@ -59,9 +59,9 @@ window.CADEAU = {
 
   // 3. La lettre : un texte par paragraphe (exemple à remplacer)
   lettre: [
-    "Ici, tu écriras ta lettre.",
-    "Chaque texte entre guillemets devient un nouveau paragraphe.",
-    "Écris avec ton cœur, c'est tout ce qui compte."
+    "J'ai besoin de toi dans ma vie.",
+    "Il n'y a qu'avec toi que mon cœur et mon âme s'apaisent.",
+    "Je demande juste que tes yeux me regardent toute ma vie."
   ],
   signature: "Je t'aime",
 
