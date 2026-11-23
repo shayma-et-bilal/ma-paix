@@ -52,9 +52,9 @@ window.CADEAU = {
   photosTitre: "Nos souvenirs",
   // position : quelle partie de la photo garder au centre du cadre ("horizontal vertical")
   photos: [
-    { src: "photos/nous-1.jpg", legende: "Toi, moi et la Seine", position: "50% 32%" },
-    { src: "photos/nous-2.jpg", legende: "Même sous la neige", position: "53% 50%" },
-    { src: "photos/nous-3.jpg", legende: "Ma place préférée : à côté de toi", position: "50% 66%" }
+    { src: "photos/nous-1.jpg", legende: "la paix quand je suis avec toi", position: "50% 32%" },
+    { src: "photos/nous-2.jpg", legende: "la paix quand je suis avec toi", position: "53% 50%" },
+    { src: "photos/nous-3.jpg", legende: "la paix quand je suis avec toi", position: "50% 66%" }
   ],
 
   // 3. La lettre : un texte par paragraphe (exemple à remplacer)
