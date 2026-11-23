@@ -46,7 +46,7 @@ window.CADEAU = {
 
   // À qui est destiné le cadeau, et de qui il vient
   pour: "Mon amour",
-  de: "Moi",
+  de: "Ton héros",
 
   // 2. Les photos (exemples à remplacer)
   photosTitre: "Nos souvenirs",
