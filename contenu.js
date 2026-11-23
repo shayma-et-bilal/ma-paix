@@ -60,7 +60,8 @@ window.CADEAU = {
   // 3. La lettre : un texte par paragraphe (exemple à remplacer)
   lettre: [
     "J'ai besoin de toi dans ma vie.",
-    "Il n'y a qu'avec toi que mon cœur et mon âme s'apaisent.",
+    "Te regarder parler me donne le sourire, et te savoir près de moi apaise mon cœur. Il n'y a qu'avec toi que mon cœur et mon âme trouvent la paix.",
+    "Malgré les hauts et les bas, mon amour pour toi restera à jamais inchangé.",
     "Je demande juste que tes yeux me regardent toute ma vie."
   ],
   signature: "Je t'aime",
