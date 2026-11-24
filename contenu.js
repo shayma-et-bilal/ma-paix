@@ -62,7 +62,7 @@ window.CADEAU = {
     "J'ai besoin de toi dans ma vie.",
     "Te regarder parler me donne le sourire, et te savoir près de moi apaise mon cœur. Il n'y a qu'avec toi que mon cœur et mon âme trouvent la paix.",
     "Malgré les hauts et les bas, mon amour pour toi restera à jamais inchangé.",
-    "Je ne veux pas te perdre. Je suis désolé pour mes manques, mais maintenant c'est fini : je ne prendrai plus le risque de te perdre, et je ne laisserai personne te faire du mal ni te rendre triste.",
+    "Je ne veux pas te perdre, et je suis désolé du manque que j'ai eu. Maintenant c'est fini, je ne risquerai plus de te perdre, je ne laisserai personne te faire du mal ou te rendre triste.",
     "Je te promets de toujours tout gérer, d'être l'homme dont tu as besoin : celui qui règle tes soucis, et celui qui évite que tu en aies. L'homme qui prend chaque situation en main, pour que ma princesse n'ait même pas à réfléchir ni à s'inquiéter.",
     "Je demande juste que tes yeux me regardent toute ma vie."
   ],
