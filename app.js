@@ -163,7 +163,7 @@
   var saisie = "", bloque = false;
 
   var pourQui = C.pour ? "Pour " + C.pour.charAt(0).toLowerCase() + C.pour.slice(1) : "";
-  texte("verrou-pour", pourQui);
+  $("verrou-pour").hidden = true; // accueil neutre : aucun mot doux avant le code
   texte("indice", C.indice);
 
   var points = $("points");
