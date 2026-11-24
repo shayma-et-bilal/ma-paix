@@ -75,6 +75,7 @@
         titre.focus({ preventScroll: true });
       }
       if (id === "e-cadeau") preparerCadeau();
+      if (id === "e-intro") policesPretes.then(lancerIntro);
     }, actuel ? 420 : 0);
   }
   document.querySelectorAll(".suivant").forEach(function (b) {
@@ -228,7 +229,7 @@
       vibrer([30, 40, 60]);
       $("e-code").classList.add("ouvert");
       eclat(window.innerWidth / 2, window.innerHeight * 0.25, 26, 260);
-      setTimeout(function () { allerA("e-photos"); }, 1100);
+      setTimeout(function () { allerA("e-intro"); }, 1100);
     } else {
       S.erreur();
       vibrer(150);
@@ -620,5 +621,5 @@
       ? Promise.all([document.fonts.load("600 16px Nunito"), document.fonts.load("40px 'Great Vibes'"), document.fonts.load("italic 500 16px 'Cormorant Garamond'")])
       : null;
   });
-  Promise.race([polices, new Promise(function (r) { setTimeout(r, 2500); })]).then(lancerIntro, lancerIntro);
+  var policesPretes = Promise.race([polices, new Promise(function (r) { setTimeout(r, 2500); })]).then(null, function () {});
 })();

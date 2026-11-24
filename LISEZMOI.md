@@ -3,8 +3,8 @@
 Page pour téléphone, à ouvrir avec le QR code. Adresse : https://shayma-et-bilal.github.io/ma-paix/
 
 ## Déroulé
-0. **Les mots en cœur** (premier écran, dès le scan) : le contour d'un cœur se dessine, puis tes mots doux le remplissent phrase par phrase. « ma paix » s'allume au centre et le cœur se met à battre. Un toucher affiche tout d'un coup, puis le bouton « Continuer » mène au code. Les phrases se règlent dans `contenu.js` (`intro`). La mise en page s'adapte toute seule à la longueur du texte et à la taille de l'écran.
-1. **Code secret** : cadenas en forme de cœur avec un clavier à chiffres.
+1. **Code secret** (premier écran, dès le scan) : cadenas botanique et clavier. Sans le bon code, rien d'autre n'est visible.
+0. **Le jardin de nuit** (juste après le code) : une fleur pousse pour chacun des 25 mots doux, puis « ma paix » éclot au centre. Un toucher affiche tout ; « Continuer » mène aux photos. Le jardin reste ensuite en toile de fond.
 2. **Photos** : vos photos façon polaroid, à faire glisser.
 3. **Lettre** : une enveloppe à toucher, qui s'ouvre sur ta lettre.
 4. **Cadeau en 3D** : une boîte à toucher plusieurs fois. À chaque appui, elle s'écrase et rebondit, le couvercle saute et une lumière filtre de l'intérieur. Au dernier appui, la boîte se tasse, le couvercle s'envole, une onde de choc part, un faisceau de lumière jaillit avec des étincelles et des cœurs.
